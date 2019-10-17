@@ -16,9 +16,9 @@ A zipped file will be downloaded soon.
 
 ![download](images/B.png)     ![download](images/C.png)
 
-* A screen will pop up asking for the which file to upload. Recollect the location of individual files and upload them ** one by one ** .
+* A screen will pop up asking for the which file to upload. Recollect the location of individual files and upload them **one by one** .
 
-* Right click on the file name, dependng upon the file you need. A drop-down menu will appear and select the ** open with ** option. Another drop-down menu will appear. Select Google Colaboratory.  
+* Right click on the file name, dependng upon the file you need. A drop-down menu will appear and select the **open with** option. Another drop-down menu will appear. Select Google Colaboratory.  
 
 ![download](images/D.png)
 
